@@ -26,3 +26,6 @@ This dashboard is highly suitable for applications in precision agriculture, aca
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/afb597b9-0ec6-42b0-b13f-2eb8f7372446)
+
+![Image](https://github.com/user-attachments/assets/8aee4b41-1829-49af-aa6c-9877d2a0153d)
